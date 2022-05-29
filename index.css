@@ -1,0 +1,41 @@
+* {
+
+    margin: 0;
+    
+    padding: 0;
+    
+    list-style: none;
+    
+    text-decoration: none;
+    
+    }
+
+html {
+    font-size: 50px;
+}
+.cuerpo {
+    background-color: mediumslateblue;
+}
+.cuadrado {
+    width: 200px;
+    height: 200px;
+    background-color: bisque;
+    border: solid 10px gray;
+    padding: 20px;
+    border-radius: 15px;
+}
+.cuadrado2 {
+    width: 10rem;
+    height: 10rem;
+    background-color: aquamarine;
+    border: solid 1rem orange;
+    border-radius: 40px;
+}
+.cuadrado3 {
+    width: 10em;
+    height: 10em;
+    background-color: brown;
+    border: solid 1em hotpink;
+    font-size: 30px;
+    border-radius: 60px;
+}
